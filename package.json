@@ -25,9 +25,6 @@
     "src/GroupName.cc",
     "binding.gyp"
   ],
-  "os": [
-    "!win32"
-  ],
   "engines": {
     "node": ">=8.4.0"
   },
